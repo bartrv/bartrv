@@ -1,4 +1,3 @@
-👋 Hi, I’m @bartrv
 I'm a 3D animator who has a history of programming and web scripting.<br/>
 Currently I'm exploring 3D printing, Python, OpenCV, Arduind builds, and by extension C++.
 
